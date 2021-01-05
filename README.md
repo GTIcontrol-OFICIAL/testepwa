@@ -1,9 +1,9 @@
 # Teste PWA
-The classic Hello World program as a Progressive Web App
+Teste dos recursos de Progressive Web App ..::PWA::..
 
 ## Navegadores
 
-Hello PWA has been tested in the following browsers:
+PWA testedo nos browsers:
 
 * Chrome 67 (Windows and Android)
 * Firefox 60
